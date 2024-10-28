@@ -12,12 +12,12 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/xspring14/count.sv
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 <!--LINE-->
-<img src="https://dgithub.xyz/xspring14/xspring14/blob/main/resources/paomaxian.gif?raw=true" height="20" width="100%">
+<img src="https://github.com/xspring14/xspring14/blob/main/resources/paomaxian.gif?raw=true" height="20" width="100%">
 <p align="center">
 <!--STATTITLE / WEBSITE: https://textanim.com/-->
-<p align="center"> <img src="https://dgithub.xyz/xspring14/xspring14/blob/main/resources/start.gif?raw=true">
+<p align="center"> <img src="https://github.com/xspring14/xspring14/blob/main/resources/start.gif?raw=true">
  <!--SNAKETITLE / WEBSITE: https://textanim.com/ -->
-<p align="center"> <img src="https://dgithub.xyz/xspring14/xspring14/blob/main/resources/gongxianzhi.gif?raw=true" width="500">
+<p align="center"> <img src="https://github.com/xspring14/xspring14/blob/main/resources/gongxianzhi.gif?raw=true" width="500">
 
 <p align="center">
 <picture>
