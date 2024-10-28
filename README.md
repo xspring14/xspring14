@@ -47,3 +47,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/xspring14/count.sv
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph --> 
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=xspring14&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" /> 
 </p>
+<p align="center">
+  <!-- https://github.com/LelouchFR/skill-icons --> 
+  <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,java,md,latex,triton,matlab&titles=true">
+</p>
