@@ -9,17 +9,19 @@
 <!--visitor-->
 You are my ![Visitor Count](https://profile-counter.glitch.me/xspring14/count.svg)th visitor
 
-<!--
-**xspring14/xspring14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+<!--LINE-->
+<img src="https://github.com/xspring14/xspring14/blob/main/resources/paomaxian.gif?raw=true" height="20" width="100%">
+<p align="center">
+<!--STATTITLE / WEBSITE: https://textanim.com/-->
+<p align="center"> <img src="https://github.com/xspring14/xspring14/blog/main/resources/start.gif?raw=true">
+ <!--SNAKETITLE / WEBSITE: https://textanim.com/ -->
+<p align="center"> <img src="https://github.com/xspring14/xspring14/blob/main/resources/gongxianzhi.gif?raw=true" width="500">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.github.com/xspring14/xspring14/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.github.com/xspring14/xspring14/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.github.com/xspring14/xspring14/output/github-contribution-grid-snake.svg">
+</picture>
