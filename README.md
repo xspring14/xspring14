@@ -1,4 +1,4 @@
-## Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/xspring14/count.svg)
 
 <!--
 **xspring14/xspring14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
