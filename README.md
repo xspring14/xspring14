@@ -25,3 +25,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/xspring14/count.sv
   <source media="(prefers-color-scheme: light)" srcset="https://raw.github.com/xspring14/xspring14/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.github.com/xspring14/xspring14/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src="https://github.com/xspring14/xspring14/blob/main/resources/paomaxian.gif?raw=true" height="20" width="100%">
+
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+
+<!-- dynamic typing effect 动态打字效果 -->
+<div>
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22coding&nbsp;统计%22)&center=true&size=27" />
+  </a>
+</div>
