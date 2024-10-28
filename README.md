@@ -49,5 +49,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/xspring14/count.sv
 </p>
 <p align="center">
   <!-- https://github.com/LelouchFR/skill-icons --> 
-  <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,java,md,latex,triton,matlab&titles=true">
+  <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,shell,java,latex,pytorch,tensorflow,matlab,scala&titles=true">
+</p>
+<p align="center">
+  <img widht="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xspring14&layout=compact&theme=tokyonight">
 </p>
