@@ -37,3 +37,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/xspring14/count.sv
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22coding&nbsp;统计%22)&center=true&size=27" />
   </a>
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xspring14&layout=compact&theme=tokyonight)
