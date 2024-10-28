@@ -1,4 +1,13 @@
-![Visitor Count](https://profile-counter.glitch.me/xspring14/count.svg)
+<!--996-->
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=今天又是996的一天！！！&center=true&size=27" />
+  </a>
+</h1>
+
+<!--visitor-->
+You are my ![Visitor Count](https://profile-counter.glitch.me/xspring14/count.svg)th visitor
 
 <!--
 **xspring14/xspring14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
