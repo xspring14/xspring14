@@ -37,4 +37,12 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/xspring14/count.sv
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22coding&nbsp;统计%22)&center=true&size=27" />
   </a>
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xspring14&layout=compact&theme=tokyonight)
+
+<!--top langs-->
+<p align="center">
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=xspring14&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
+  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <img width="400" src="https://streak-stats.demolab.com?user=xspring14&theme=transparent&hide_border=true" /> 
+</p>
